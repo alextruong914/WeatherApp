@@ -1,2 +1,2 @@
 # WeatherApp
-https://quyanh1189.github.io/WeatherApp/
+https://alextruong914.github.io/WeatherApp/
